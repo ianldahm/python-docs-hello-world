@@ -60,3 +60,4 @@ jobs:
           app-name: 'deltaflyer'
           slot-name: 'staging'
           publish-profile: ${{ secrets.AzureAppService_PublishProfile_d41449a0c7794ab69e52630ea0bce992 }}
+          
